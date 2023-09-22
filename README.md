@@ -8,7 +8,7 @@ from the source code we:
 
 1.)add more Dense layers to the existing code and check how the accuracy changes.
 
-2.)Change the data source to Breast Cancer dataset * available in the source code folder and make required changes and Report accuracy of the model.
+2.)Change the data source to Breast Cancer dataset given in the source code folder and make required changes and Report accuracy of the model.
 
 3.)Normalize the data before feeding the data to the model and check how the normalization change the accuracy of the model
 
