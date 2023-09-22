@@ -25,3 +25,5 @@ from the source code we:
 3.)We had used 2 hidden layers and Relu activation, so change the number of hidden layer and the activation to tanh.
 
 4.)Running the same code without scaling the images and checking the result.
+
+VIDEO PRESENTATION LINK: https://www.loom.com/share/e0c30803373b420cb0975ca294781519?sid=5c061d08-9866-4e92-8e5e-0f9b3018e505
